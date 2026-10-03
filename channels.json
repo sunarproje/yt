@@ -18,5 +18,265 @@
     "id": "kanal5",
     "name": "Kanal 5",
     "url": "https://www.youtube.com/watch?v=wncqRgXRLiE"
+  },
+  {
+    "id": "cnn-turk",
+    "name": "CNN Türk",
+    "url": "https://www.youtube.com/watch?v=6N8_r2uwLEc"
+  },
+  {
+    "id": "krt",
+    "name": "KRT",
+    "url": "https://www.youtube.com/watch?v=qDqx8nWCeK8"
+  },
+  {
+    "id": "muhtesem-yuzyil",
+    "name": "Muhteşem Yüzyıl",
+    "url": "https://www.youtube.com/watch?v=tZxD_s29JZc"
+  },
+  {
+    "id": "yaprak-dokumu",
+    "name": "Yaprak Dökümü",
+    "url": "https://www.youtube.com/watch?v=crwxJBQKWj4"
+  },
+  {
+    "id": "kardes-payi",
+    "name": "Kardeş Payı",
+    "url": "https://www.youtube.com/watch?v=eYeu4VUkhYc"
+  },
+  {
+    "id": "kurtlar-vadisi-pusu",
+    "name": "Kurtlar Vadisi Pusu",
+    "url": "https://www.youtube.com/watch?v=9LOEyR_lsNk"
+  },
+  {
+    "id": "eskiya-dunyaya-hukumdar-olmaz",
+    "name": "Eşkıya Dünyaya Hükümdar Olmaz",
+    "url": "https://www.youtube.com/watch?v=YrR48j8y8O4"
+  },
+  {
+    "id": "emret-komutanim",
+    "name": "Emret Komutanım",
+    "url": "https://www.youtube.com/watch?v=b4U9nt3s128"
+  },
+  {
+    "id": "yesilcam",
+    "name": "Yeşilçam",
+    "url": "https://www.youtube.com/watch?v=NqbUZyS58u8"
+  },
+  {
+    "id": "aski-memnu",
+    "name": "Aşk-ı Memnu",
+    "url": "https://www.youtube.com/watch?v=JpP13Wp1ke0"
+  },
+  {
+    "id": "medcezir",
+    "name": "Medcezir",
+    "url": "https://www.youtube.com/watch?v=yu2-hTNkr6c"
+  },
+  {
+    "id": "bizimkiler",
+    "name": "Bizimkiler",
+    "url": "https://www.youtube.com/watch?v=jvC6-s5exnI"
+  },
+  {
+    "id": "leyla-ile-mecnun",
+    "name": "Leyla ile Mecnun",
+    "url": "https://www.youtube.com/watch?v=3nlND4audLg"
+  },
+  {
+    "id": "yasak-elma",
+    "name": "Yasak Elma",
+    "url": "https://www.youtube.com/watch?v=g2cBiMWu0YI"
+  },
+  {
+    "id": "yeralti",
+    "name": "Yeraltı",
+    "url": "https://www.youtube.com/watch?v=eXeXpNZs_nY"
+  },
+  {
+    "id": "sihirli-annem",
+    "name": "Sihirli Annem",
+    "url": "https://www.youtube.com/watch?v=ISPr6OHWVsY"
+  },
+  {
+    "id": "seksenler",
+    "name": "Seksenler",
+    "url": "https://www.youtube.com/watch?v=qGYlF1MiMxw"
+  },
+  {
+    "id": "soz",
+    "name": "Söz",
+    "url": "https://www.youtube.com/watch?v=AOCx3MTX50c"
+  },
+  {
+    "id": "yedi-numara",
+    "name": "Yedi Numara",
+    "url": "https://www.youtube.com/watch?v=rS5dHYQsSxs"
+  },
+  {
+    "id": "alti-ustu-istanbul",
+    "name": "Altı Üstü İstanbul",
+    "url": "https://www.youtube.com/watch?v=6pU7QDkeVr8"
+  },
+  {
+    "id": "avrupa-yakasi",
+    "name": "Avrupa Yakası",
+    "url": "https://www.youtube.com/watch?v=NGsjOrzwjZk"
+  },
+  {
+    "id": "ask-yeniden",
+    "name": "Aşk Yeniden",
+    "url": "https://www.youtube.com/watch?v=67GXDXW35l8"
+  },
+  {
+    "id": "behzat-c",
+    "name": "Behzat Ç",
+    "url": "https://www.youtube.com/watch?v=XPy9T3ePqoQ"
+  },
+  {
+    "id": "fatmagulun-sucu-ne",
+    "name": "Fatmagül'ün Suçu Ne?",
+    "url": "https://www.youtube.com/watch?v=EBdeegSEOv4"
+  },
+  {
+    "id": "alemin-kirali",
+    "name": "Alemin Kıralı",
+    "url": "https://www.youtube.com/watch?v=avDRwKKjeSI"
+  },
+  {
+    "id": "savasci",
+    "name": "Savaşçı",
+    "url": "https://www.youtube.com/watch?v=wf42NQ_VJgY"
+  },
+  {
+    "id": "cicek-taksi",
+    "name": "Çiçek Taksi",
+    "url": "https://www.youtube.com/watch?v=6SkIsrCIPfQ"
+  },
+  {
+    "id": "cgh-2",
+    "name": "ÇGH 2",
+    "url": "https://www.youtube.com/watch?v=JeIsM7AN7ss"
+  },
+  {
+    "id": "tasacak-bu-deniz",
+    "name": "Taşacak Bu Deniz",
+    "url": "https://www.youtube.com/watch?v=MVjIaSmOs3g"
+  },
+  {
+    "id": "turk-mali",
+    "name": "Türk Malı",
+    "url": "https://www.youtube.com/watch?v=zJbJlAmfx7g"
+  },
+  {
+    "id": "sakarya-firat",
+    "name": "Sakarya Fırat",
+    "url": "https://www.youtube.com/watch?v=LrXSGDCnmnQ"
+  },
+  {
+    "id": "bir-zamanlar-cukurova",
+    "name": "Bir Zamanlar Çukurova",
+    "url": "https://www.youtube.com/watch?v=yq2QNxzcUUo"
+  },
+  {
+    "id": "selena",
+    "name": "Selena",
+    "url": "https://www.youtube.com/watch?v=1lyLi6l74fs"
+  },
+  {
+    "id": "bir-gece-masali",
+    "name": "Bir Gece Masalı",
+    "url": "https://www.youtube.com/watch?v=b5lUIsJZjMk"
+  },
+  {
+    "id": "yesil-deniz",
+    "name": "Yeşil Deniz",
+    "url": "https://www.youtube.com/watch?v=DKbXb7x38_Y"
+  },
+  {
+    "id": "adanali",
+    "name": "Adanalı",
+    "url": "https://www.youtube.com/watch?v=sF1AgroEr60"
+  },
+  {
+    "id": "yalan-dunya",
+    "name": "Yalan Dünya",
+    "url": "https://www.youtube.com/watch?v=HBYhDpFDbgs"
+  },
+  {
+    "id": "yargi",
+    "name": "Yargı",
+    "url": "https://www.youtube.com/watch?v=pUjdw26nVhQ"
+  },
+  {
+    "id": "kardeslerim",
+    "name": "Kardeşlerim",
+    "url": "https://www.youtube.com/watch?v=-vVs9H5Qj6w"
+  },
+  {
+    "id": "inadina-ask",
+    "name": "İnadına Aşk",
+    "url": "https://www.youtube.com/watch?v=2ruVJaWrORY"
+  },
+  {
+    "id": "cocuklar-duymasin",
+    "name": "Çocuklar Duymasın",
+    "url": "https://www.youtube.com/watch?v=g7oVIIevRMk"
+  },
+  {
+    "id": "yuksek-sosyete",
+    "name": "Yüksek Sosyete",
+    "url": "https://www.youtube.com/watch?v=-0GgH2pq1Hc"
+  },
+  {
+    "id": "kacak-gelinler",
+    "name": "Kaçak Gelinler",
+    "url": "https://www.youtube.com/watch?v=sRxa_9Ml0EQ"
+  },
+  {
+    "id": "hudutsuz-sevda",
+    "name": "Hudutsuz Sevda",
+    "url": "https://www.youtube.com/watch?v=DcV1rwF0998"
+  },
+  {
+    "id": "sevkat-yerimdar",
+    "name": "Şevkat Yerimdar",
+    "url": "https://www.youtube.com/watch?v=_-g2YYka8-I"
+  },
+  {
+    "id": "mehmed-fetihler-sultani",
+    "name": "Mehmed: Fetihler Sultanı",
+    "url": "https://www.youtube.com/watch?v=6_AnQrbFvY8"
+  },
+  {
+    "id": "sokagin-cocuklari",
+    "name": "Sokağın Çocukları",
+    "url": "https://www.youtube.com/watch?v=4Va_ylUt0AQ"
+  },
+  {
+    "id": "aile",
+    "name": "Aile",
+    "url": "https://www.youtube.com/watch?v=BKVkD30_E5A"
+  },
+  {
+    "id": "veliaht",
+    "name": "Veliaht",
+    "url": "https://www.youtube.com/watch?v=NcB3aTZ6UUk"
+  },
+  {
+    "id": "cennet-mahallesi",
+    "name": "Cennet Mahallesi",
+    "url": "https://www.youtube.com/watch?v=yFQ_Ve2xt8U"
+  },
+  {
+    "id": "kiralik-ask",
+    "name": "Kiralık Aşk",
+    "url": "https://www.youtube.com/watch?v=nd7JU2MlxpY"
+  },
+  {
+    "id": "guldur-guldur",
+    "name": "Güldür Güldür",
+    "url": "https://www.youtube.com/watch?v=6iTXnuBXXqI"
   }
 ]
