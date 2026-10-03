@@ -5,6 +5,22 @@ import {resolve} from 'node:path';
 import {pathToFileURL} from 'node:url';
 const exec=promisify(execFile);
 const OUT=resolve('streams');
+export function diagnose(error,stage){
+ // Classify subprocess output without publishing URLs, signatures or account data.
+ const details=String(error.stderr||'');
+ let reason;
+ if(/not a bot|confirm you.re not|sign in to confirm/i.test(details))reason='YouTube bot doğrulaması veya oturum açma istiyor.';
+ else if(/requested format is not available/i.test(details))reason='İstenen HLS ses/görüntü formatı bulunamadı.';
+ else if(/private video|members.only|login required/i.test(details))reason='Yayın için hesap erişimi gerekiyor.';
+ else if(/not available in your country|geo.restrict/i.test(details))reason='Yayın bu sunucunun bulunduğu ülkeden erişilemiyor.';
+ else if(/video unavailable|not currently live|live event will begin/i.test(details))reason='Yayın erişilemiyor veya henüz canlı değil.';
+ else if(/429|too many requests/i.test(details))reason='YouTube istek sınırı (HTTP 429).';
+ else if(/403|forbidden/i.test(details))reason='YouTube erişimi reddetti (HTTP 403).';
+ else if(error.killed||/timed? ?out/i.test(details))reason='İşlem zaman aşımına uğradı.';
+ else if(stage==='YouTube çözümleme')reason='Çözücü başarısız oldu; bilinen bir hata sınıfıyla eşleşmedi.';
+ else reason=String(error.message||'Bilinmeyen hata').replace(/https?:\/\/\S+/g,'[URL]').replace(/[\r\n]+/g,' ').slice(0,180);
+ return `${stage}: ${reason}`;
+}
 export function validateChannels(channels){
  if(!Array.isArray(channels)||!channels.length)throw Error('channels.json boş: önce deneme kanalını ekleyin.');
  const ids=new Set();
@@ -43,7 +59,7 @@ export function manifest(s){
 async function atomic(file,text){await writeFile(file+'.tmp',text);await rename(file+'.tmp',file);}
 async function probe(url){
  const response=await fetch(url,{signal:AbortSignal.timeout(15000)});
- if(!response.ok)throw Error('Manifest erişilemedi.');
+ if(!response.ok)throw Error(`Manifest erişilemedi (HTTP ${response.status}).`);
  const text=await response.text();
  if(!text.startsWith('#EXTM3U'))throw Error('Geçersiz manifest.');
  const recent=text.split('\n').map(x=>x.trim()).filter(x=>x&&!x.startsWith('#')).slice(-3);
@@ -52,7 +68,7 @@ async function probe(url){
  const media=new URL(item,url);
  if(media.protocol!=='https:'||!media.hostname.endsWith('.googlevideo.com'))throw Error('Beklenmeyen medya sunucusu.');
  const part=await fetch(media,{signal:AbortSignal.timeout(15000)});
- try {if(!part.ok)throw Error('Medya parçası erişilemedi.');const reader=part.body.getReader();const chunk=await reader.read();await reader.cancel();if(chunk.done||!chunk.value.length)throw Error('Boş medya parçası.');}
+ try {if(!part.ok)throw Error(`Medya parçası erişilemedi (HTTP ${part.status}).`);const reader=part.body.getReader();const chunk=await reader.read();await reader.cancel();if(chunk.done||!chunk.value.length)throw Error('Boş medya parçası.');}
  finally{if(!part.body.locked)await part.body.cancel().catch(()=>{});}
  }
 }
@@ -64,17 +80,21 @@ export async function main(){
  for(const file of await readdir(OUT)){if(/^[a-z0-9-]+\.m3u8$/.test(file)&&!allowed.has(file))await unlink(resolve(OUT,file));}
  for(const c of channels){
   const file=resolve(OUT,c.id+'.m3u8');
+  let stage='YouTube çözümleme';
   try{
    const {stdout}=await exec(process.env.PYTHON||'python',['-m','yt_dlp','--ignore-config','--no-playlist','--no-warnings','--socket-timeout','20','--retries','2','--extractor-retries','2','--js-runtimes','node','--dump-single-json','--skip-download','-f','bestvideo[protocol^=m3u8]+bestaudio[protocol^=m3u8]/best[protocol^=m3u8][acodec!=none][vcodec!=none]',c.url],{timeout:120000,maxBuffer:8*1024*1024});
-   const stream=selectStream(JSON.parse(stdout));await probe(stream.url);
-   if(stream.audioUrl)await probe(stream.audioUrl);
+   stage='Format seçimi';const stream=selectStream(JSON.parse(stdout));
+   stage='Görüntü erişim kontrolü';await probe(stream.url);
+   if(stream.audioUrl){stage='Ses erişim kontrolü';await probe(stream.audioUrl);}
+   stage='Dosya kaydı';
    await atomic(file,manifest(stream));entries.push(`#EXTINF:-1,${c.name}\n${c.id}.m3u8`);
    status.push({id:c.id,name:c.name,ok:true,expiresAt:new Date(stream.expires*1000).toISOString()});
    console.log(`${c.id}: güncel manifest alındı (oynatma henüz doğrulanmadı).`);
-  }catch{
+  }catch(error){
    // Avoid logging signed URLs, cookies or subprocess output. Remove stale output.
    await unlink(file).catch(e=>{if(e.code!=='ENOENT')throw e});
-   status.push({id:c.id,name:c.name,ok:false,reason:'Yayın çözülemedi veya manifest doğrulanamadı.'});failed++;console.log(`${c.id}: başarısız; eski bağlantı listeden çıkarıldı.`);
+   const reason=diagnose(error,stage);
+   status.push({id:c.id,name:c.name,ok:false,reason});failed++;console.log(`${c.id}: ${reason} Eski bağlantı listeden çıkarıldı.`);
   }
  }
  await atomic(resolve(OUT,'channels.m3u'),'#EXTM3U\n'+entries.join('\n')+'\n');
