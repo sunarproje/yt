@@ -1,0 +1,11 @@
+{
+  "checkedAt": "2026-10-03T22:17:42.593Z",
+  "results": [
+    {
+      "id": "akit",
+      "name": "Akit TV",
+      "ok": false,
+      "reason": "Yayın çözülemedi veya manifest doğrulanamadı."
+    }
+  ]
+}
