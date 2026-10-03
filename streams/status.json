@@ -1,11 +1,17 @@
 {
-  "checkedAt": "2026-10-03T22:27:35.072Z",
+  "checkedAt": "2026-10-03T22:31:58.188Z",
   "results": [
     {
       "id": "akit",
       "name": "Akit TV",
       "ok": true,
-      "expiresAt": "2026-10-04T04:27:33.000Z"
+      "expiresAt": "2026-10-04T04:31:53.000Z"
+    },
+    {
+      "id": "szc",
+      "name": "SZC TV",
+      "ok": true,
+      "expiresAt": "2026-10-04T04:31:56.000Z"
     }
   ]
 }
