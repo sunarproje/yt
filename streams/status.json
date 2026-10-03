@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-10-03T22:21:13.270Z",
+  "checkedAt": "2026-10-03T22:27:35.072Z",
   "results": [
     {
       "id": "akit",
       "name": "Akit TV",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-04T04:27:33.000Z"
     }
   ]
 }
