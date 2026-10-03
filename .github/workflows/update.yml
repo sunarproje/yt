@@ -1,0 +1,50 @@
+name: Refresh authorised live streams
+on:
+  push:
+    paths:
+      - channels.json
+      - update.mjs
+      - requirements.txt
+      - .github/workflows/update.yml
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: live-playlists
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install extractor
+        run: python -m pip install -r requirements.txt
+      - name: Validate generator
+        run: node test.mjs
+      - name: Resolve and check manifests
+        id: update
+        continue-on-error: true
+        run: node update.mjs
+      - name: Save playlist changes, including removal of failed streams
+        if: always() && steps.update.outcome != 'skipped'
+        run: |
+          if [ ! -d streams ]; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- streams
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh live stream playlists"
+            git push
+          fi
+      - name: Report failed channels
+        if: steps.update.outcome == 'failure'
+        run: exit 1
