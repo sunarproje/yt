@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-10-03T22:17:42.593Z",
+  "checkedAt": "2026-10-03T22:21:13.270Z",
   "results": [
     {
       "id": "akit",
       "name": "Akit TV",
       "ok": false,
-      "reason": "Yayın çözülemedi veya manifest doğrulanamadı."
+      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
     }
   ]
 }
