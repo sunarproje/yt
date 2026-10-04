@@ -11,7 +11,7 @@
   },
   {
     "id": "ezel",
-    "name": "ezel",
+    "name": "Ezel",
     "url": "https://www.youtube.com/watch?v=eo76L8gueeU"
   },
   {
@@ -28,6 +28,11 @@
     "id": "beinsports-haber",
     "name": "beIN Sports Haber",
     "url": "https://www.youtube.com/watch?v=i7UpPgxfZZ8"
+  },
+  {
+    "id": "kozatv",
+    "name": "Koza Tv",
+    "url": "https://www.youtube.com/watch?v=JJnNc8VnGCc"
   },
   {
     "id": "muhtesem-yuzyil",
