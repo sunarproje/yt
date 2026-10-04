@@ -13,6 +13,10 @@ cnn-turk.m3u8
 beinsports-haber.m3u8
 #EXTINF:-1,Koza Tv
 kozatv.m3u8
+#EXTINF:-1,Hayvanlar Alemi
+hayvan.m3u8
+#EXTINF:-1,Yaban Hayatı
+yaban-hayat.m3u8
 #EXTINF:-1,Muhteşem Yüzyıl
 muhtesem-yuzyil.m3u8
 #EXTINF:-1,Yaprak Dökümü
