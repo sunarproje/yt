@@ -9,8 +9,6 @@ ezel.m3u8
 kanal5.m3u8
 #EXTINF:-1,CNN Türk
 cnn-turk.m3u8
-#EXTINF:-1,beIN Sports Haber
-beinsports-haber.m3u8
 #EXTINF:-1,Muhteşem Yüzyıl
 muhtesem-yuzyil.m3u8
 #EXTINF:-1,Yaprak Dökümü
@@ -103,8 +101,6 @@ mehmed-fetihler-sultani.m3u8
 sokagin-cocuklari.m3u8
 #EXTINF:-1,Aile
 aile.m3u8
-#EXTINF:-1,Veliaht
-veliaht.m3u8
 #EXTINF:-1,Cennet Mahallesi
 cennet-mahallesi.m3u8
 #EXTINF:-1,Kiralık Aşk
