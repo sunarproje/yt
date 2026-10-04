@@ -3,7 +3,7 @@
 akit.m3u8
 #EXTINF:-1,SZC TV
 szc.m3u8
-#EXTINF:-1,ezel
+#EXTINF:-1,Ezel
 ezel.m3u8
 #EXTINF:-1,Kanal 5
 kanal5.m3u8
@@ -11,6 +11,8 @@ kanal5.m3u8
 cnn-turk.m3u8
 #EXTINF:-1,beIN Sports Haber
 beinsports-haber.m3u8
+#EXTINF:-1,Koza Tv
+kozatv.m3u8
 #EXTINF:-1,Muhteşem Yüzyıl
 muhtesem-yuzyil.m3u8
 #EXTINF:-1,Yaprak Dökümü
