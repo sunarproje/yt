@@ -11,6 +11,8 @@ kanal5.m3u8
 cnn-turk.m3u8
 #EXTINF:-1,beIN Sports Haber
 beinsports-haber.m3u8
+#EXTINF:-1,Koza Tv
+kozatv.m3u8
 #EXTINF:-1,Hayvanlar Alemi
 hayvan.m3u8
 #EXTINF:-1,Yaban Hayatı
@@ -71,6 +73,8 @@ cgh-2.m3u8
 tasacak-bu-deniz.m3u8
 #EXTINF:-1,Türk Malı
 turk-mali.m3u8
+#EXTINF:-1,Sakarya Fırat
+sakarya-firat.m3u8
 #EXTINF:-1,Bir Zamanlar Çukurova
 bir-zamanlar-cukurova.m3u8
 #EXTINF:-1,Selena
@@ -99,8 +103,6 @@ kacak-gelinler.m3u8
 hudutsuz-sevda.m3u8
 #EXTINF:-1,Şevkat Yerimdar
 sevkat-yerimdar.m3u8
-#EXTINF:-1,Mehmed: Fetihler Sultanı
-mehmed-fetihler-sultani.m3u8
 #EXTINF:-1,Sokağın Çocukları
 sokagin-cocuklari.m3u8
 #EXTINF:-1,Aile
