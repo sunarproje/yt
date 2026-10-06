@@ -111,6 +111,8 @@ mehmed-fetihler-sultani.m3u8
 sokagin-cocuklari.m3u8
 #EXTINF:-1,Aile
 aile.m3u8
+#EXTINF:-1,KRT TV
+krt.m3u8
 #EXTINF:-1,Cennet Mahallesi
 cennet-mahallesi.m3u8
 #EXTINF:-1,Kiralık Aşk
