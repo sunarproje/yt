@@ -1,341 +1,341 @@
 {
-  "checkedAt": "2026-10-06T07:35:11.643Z",
+  "checkedAt": "2026-10-06T09:27:32.907Z",
   "results": [
     {
       "id": "akit",
       "name": "Akit TV",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:24:42.000Z"
     },
     {
       "id": "szc",
       "name": "SZC TV",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:24:45.000Z"
     },
     {
       "id": "ezel",
       "name": "Ezel",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:24:47.000Z"
     },
     {
       "id": "kanal5",
       "name": "Kanal 5",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:24:49.000Z"
     },
     {
       "id": "cnn-turk",
       "name": "CNN Türk",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:24:53.000Z"
     },
     {
       "id": "beinsports-haber",
       "name": "beIN Sports Haber",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:24:55.000Z"
     },
     {
       "id": "kozatv",
       "name": "Koza Tv",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:24:58.000Z"
     },
     {
       "id": "tgrt-belg",
       "name": "TGRT Belgesel",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:00.000Z"
     },
     {
       "id": "hayvan",
       "name": "Hayvanlar Alemi",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:04.000Z"
     },
     {
       "id": "yaban-hayat",
       "name": "Yaban Hayatı",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:12.000Z"
     },
     {
       "id": "muhtesem-yuzyil",
       "name": "Muhteşem Yüzyıl",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:15.000Z"
     },
     {
       "id": "yaprak-dokumu",
       "name": "Yaprak Dökümü",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:18.000Z"
     },
     {
       "id": "kardes-payi",
       "name": "Kardeş Payı",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:21.000Z"
     },
     {
       "id": "kurtlar-vadisi-pusu",
       "name": "Kurtlar Vadisi Pusu",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:24.000Z"
     },
     {
       "id": "eskiya-dunyaya-hukumdar-olmaz",
       "name": "Eşkıya Dünyaya Hükümdar Olmaz",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:26.000Z"
     },
     {
       "id": "emret-komutanim",
       "name": "Emret Komutanım",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:29.000Z"
     },
     {
       "id": "yesilcam",
       "name": "Yeşilçam",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:33.000Z"
     },
     {
       "id": "aski-memnu",
       "name": "Aşk-ı Memnu",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:36.000Z"
     },
     {
       "id": "medcezir",
       "name": "Medcezir",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:38.000Z"
     },
     {
       "id": "bizimkiler",
       "name": "Bizimkiler",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:41.000Z"
     },
     {
       "id": "leyla-ile-mecnun",
       "name": "Leyla ile Mecnun",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:44.000Z"
     },
     {
       "id": "yasak-elma",
       "name": "Yasak Elma",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:46.000Z"
     },
     {
       "id": "yeralti",
       "name": "Yeraltı",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:49.000Z"
     },
     {
       "id": "sihirli-annem",
       "name": "Sihirli Annem",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:52.000Z"
     },
     {
       "id": "seksenler",
       "name": "Seksenler",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:54.000Z"
     },
     {
       "id": "soz",
       "name": "Söz",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:56.000Z"
     },
     {
       "id": "yedi-numara",
       "name": "Yedi Numara",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:25:59.000Z"
     },
     {
       "id": "alti-ustu-istanbul",
       "name": "Altı Üstü İstanbul",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:02.000Z"
     },
     {
       "id": "avrupa-yakasi",
       "name": "Avrupa Yakası",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:05.000Z"
     },
     {
       "id": "ask-yeniden",
       "name": "Aşk Yeniden",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:07.000Z"
     },
     {
       "id": "behzat-c",
       "name": "Behzat Ç",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:10.000Z"
     },
     {
       "id": "fatmagulun-sucu-ne",
       "name": "Fatmagül'ün Suçu Ne?",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:13.000Z"
     },
     {
       "id": "alemin-kirali",
       "name": "Alemin Kıralı",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:15.000Z"
     },
     {
       "id": "savasci",
       "name": "Savaşçı",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:18.000Z"
     },
     {
       "id": "cicek-taksi",
       "name": "Çiçek Taksi",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:21.000Z"
     },
     {
       "id": "cgh-2",
       "name": "ÇGH 2",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:24.000Z"
     },
     {
       "id": "tasacak-bu-deniz",
       "name": "Taşacak Bu Deniz",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:26.000Z"
     },
     {
       "id": "turk-mali",
       "name": "Türk Malı",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:29.000Z"
     },
     {
       "id": "sakarya-firat",
       "name": "Sakarya Fırat",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:32.000Z"
     },
     {
       "id": "bir-zamanlar-cukurova",
       "name": "Bir Zamanlar Çukurova",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:35.000Z"
     },
     {
       "id": "selena",
       "name": "Selena",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:37.000Z"
     },
     {
       "id": "bir-gece-masali",
       "name": "Bir Gece Masalı",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:40.000Z"
     },
     {
       "id": "yesil-deniz",
       "name": "Yeşil Deniz",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:43.000Z"
     },
     {
       "id": "adanali",
       "name": "Adanalı",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:45.000Z"
     },
     {
       "id": "yalan-dunya",
       "name": "Yalan Dünya",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:48.000Z"
     },
     {
       "id": "yargi",
       "name": "Yargı",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:51.000Z"
     },
     {
       "id": "kardeslerim",
       "name": "Kardeşlerim",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:54.000Z"
     },
     {
       "id": "inadina-ask",
       "name": "İnadına Aşk",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:57.000Z"
     },
     {
       "id": "cocuklar-duymasin",
       "name": "Çocuklar Duymasın",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:26:59.000Z"
     },
     {
       "id": "yuksek-sosyete",
       "name": "Yüksek Sosyete",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:27:02.000Z"
     },
     {
       "id": "kacak-gelinler",
       "name": "Kaçak Gelinler",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:27:05.000Z"
     },
     {
       "id": "hudutsuz-sevda",
       "name": "Hudutsuz Sevda",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:27:08.000Z"
     },
     {
       "id": "sevkat-yerimdar",
       "name": "Şevkat Yerimdar",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:27:11.000Z"
     },
     {
       "id": "mehmed-fetihler-sultani",
       "name": "Mehmed: Fetihler Sultanı",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:27:14.000Z"
     },
     {
       "id": "sokagin-cocuklari",
       "name": "Sokağın Çocukları",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:27:17.000Z"
     },
     {
       "id": "aile",
       "name": "Aile",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:27:20.000Z"
     },
     {
       "id": "veliaht",
@@ -346,20 +346,20 @@
     {
       "id": "cennet-mahallesi",
       "name": "Cennet Mahallesi",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:27:23.000Z"
     },
     {
       "id": "kiralik-ask",
       "name": "Kiralık Aşk",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:27:26.000Z"
     },
     {
       "id": "guldur-guldur",
       "name": "Güldür Güldür",
-      "ok": false,
-      "reason": "YouTube çözümleme: YouTube bot doğrulaması veya oturum açma istiyor."
+      "ok": true,
+      "expiresAt": "2026-10-06T15:27:29.000Z"
     }
   ]
 }
