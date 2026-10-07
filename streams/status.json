@@ -1,365 +1,365 @@
 {
-  "checkedAt": "2026-10-07T07:13:56.784Z",
+  "checkedAt": "2026-10-07T10:59:03.666Z",
   "results": [
     {
       "id": "akit",
       "name": "Akit TV",
       "ok": true,
-      "expiresAt": "2026-10-07T13:11:16.000Z"
+      "expiresAt": "2026-10-07T16:54:56.000Z"
     },
     {
       "id": "szc",
       "name": "SZC TV",
       "ok": true,
-      "expiresAt": "2026-10-07T13:11:19.000Z"
+      "expiresAt": "2026-10-07T16:55:08.000Z"
     },
     {
       "id": "ezel",
       "name": "Ezel",
       "ok": true,
-      "expiresAt": "2026-10-07T13:11:21.000Z"
+      "expiresAt": "2026-10-07T16:55:12.000Z"
     },
     {
       "id": "kanal5",
       "name": "Kanal 5",
       "ok": true,
-      "expiresAt": "2026-10-07T13:11:24.000Z"
+      "expiresAt": "2026-10-07T16:55:15.000Z"
     },
     {
       "id": "cnn-turk",
       "name": "CNN Türk",
       "ok": true,
-      "expiresAt": "2026-10-07T13:11:27.000Z"
+      "expiresAt": "2026-10-07T16:55:20.000Z"
     },
     {
       "id": "beinsports-haber",
       "name": "beIN Sports Haber",
       "ok": true,
-      "expiresAt": "2026-10-07T13:11:30.000Z"
+      "expiresAt": "2026-10-07T16:55:24.000Z"
     },
     {
       "id": "kozatv",
       "name": "Koza Tv",
       "ok": true,
-      "expiresAt": "2026-10-07T13:11:33.000Z"
+      "expiresAt": "2026-10-07T16:55:29.000Z"
     },
     {
       "id": "tgrt-belg",
       "name": "TGRT Belgesel",
       "ok": true,
-      "expiresAt": "2026-10-07T13:11:36.000Z"
+      "expiresAt": "2026-10-07T16:55:33.000Z"
     },
     {
       "id": "hayvan",
       "name": "Hayvanlar Alemi",
       "ok": true,
-      "expiresAt": "2026-10-07T13:11:38.000Z"
+      "expiresAt": "2026-10-07T16:55:36.000Z"
     },
     {
       "id": "yaban-hayat",
       "name": "Yaban Hayatı",
       "ok": true,
-      "expiresAt": "2026-10-07T13:11:41.000Z"
+      "expiresAt": "2026-10-07T16:55:40.000Z"
     },
     {
       "id": "muhtesem-yuzyil",
       "name": "Muhteşem Yüzyıl",
       "ok": true,
-      "expiresAt": "2026-10-07T13:11:44.000Z"
+      "expiresAt": "2026-10-07T16:55:44.000Z"
     },
     {
       "id": "yaprak-dokumu",
       "name": "Yaprak Dökümü",
       "ok": true,
-      "expiresAt": "2026-10-07T13:11:47.000Z"
+      "expiresAt": "2026-10-07T16:55:47.000Z"
     },
     {
       "id": "kardes-payi",
       "name": "Kardeş Payı",
       "ok": true,
-      "expiresAt": "2026-10-07T13:11:49.000Z"
+      "expiresAt": "2026-10-07T16:55:51.000Z"
     },
     {
       "id": "kurtlar-vadisi-pusu",
       "name": "Kurtlar Vadisi Pusu",
       "ok": true,
-      "expiresAt": "2026-10-07T13:11:52.000Z"
+      "expiresAt": "2026-10-07T16:55:55.000Z"
     },
     {
       "id": "eskiya-dunyaya-hukumdar-olmaz",
       "name": "Eşkıya Dünyaya Hükümdar Olmaz",
       "ok": true,
-      "expiresAt": "2026-10-07T13:11:54.000Z"
+      "expiresAt": "2026-10-07T16:55:58.000Z"
     },
     {
       "id": "emret-komutanim",
       "name": "Emret Komutanım",
       "ok": true,
-      "expiresAt": "2026-10-07T13:11:57.000Z"
+      "expiresAt": "2026-10-07T16:56:03.000Z"
     },
     {
       "id": "yesilcam",
       "name": "Yeşilçam",
       "ok": true,
-      "expiresAt": "2026-10-07T13:11:59.000Z"
+      "expiresAt": "2026-10-07T16:56:07.000Z"
     },
     {
       "id": "aski-memnu",
       "name": "Aşk-ı Memnu",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:03.000Z"
+      "expiresAt": "2026-10-07T16:56:11.000Z"
     },
     {
       "id": "medcezir",
       "name": "Medcezir",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:05.000Z"
+      "expiresAt": "2026-10-07T16:56:14.000Z"
     },
     {
       "id": "bizimkiler",
       "name": "Bizimkiler",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:08.000Z"
+      "expiresAt": "2026-10-07T16:56:18.000Z"
     },
     {
       "id": "leyla-ile-mecnun",
       "name": "Leyla ile Mecnun",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:10.000Z"
+      "expiresAt": "2026-10-07T16:56:22.000Z"
     },
     {
       "id": "yasak-elma",
       "name": "Yasak Elma",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:13.000Z"
+      "expiresAt": "2026-10-07T16:56:26.000Z"
     },
     {
       "id": "yeralti",
       "name": "Yeraltı",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:15.000Z"
+      "expiresAt": "2026-10-07T16:56:29.000Z"
     },
     {
       "id": "sihirli-annem",
       "name": "Sihirli Annem",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:18.000Z"
+      "expiresAt": "2026-10-07T16:56:33.000Z"
     },
     {
       "id": "seksenler",
       "name": "Seksenler",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:20.000Z"
+      "expiresAt": "2026-10-07T16:56:37.000Z"
     },
     {
       "id": "soz",
       "name": "Söz",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:23.000Z"
+      "expiresAt": "2026-10-07T16:56:40.000Z"
     },
     {
       "id": "yedi-numara",
       "name": "Yedi Numara",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:26.000Z"
+      "expiresAt": "2026-10-07T16:56:45.000Z"
     },
     {
       "id": "alti-ustu-istanbul",
       "name": "Altı Üstü İstanbul",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:28.000Z"
+      "expiresAt": "2026-10-07T16:56:49.000Z"
     },
     {
       "id": "avrupa-yakasi",
       "name": "Avrupa Yakası",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:32.000Z"
+      "expiresAt": "2026-10-07T16:56:53.000Z"
     },
     {
       "id": "ask-yeniden",
       "name": "Aşk Yeniden",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:34.000Z"
+      "expiresAt": "2026-10-07T16:56:56.000Z"
     },
     {
       "id": "behzat-c",
       "name": "Behzat Ç",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:37.000Z"
+      "expiresAt": "2026-10-07T16:57:01.000Z"
     },
     {
       "id": "fatmagulun-sucu-ne",
       "name": "Fatmagül'ün Suçu Ne?",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:40.000Z"
+      "expiresAt": "2026-10-07T16:57:05.000Z"
     },
     {
       "id": "alemin-kirali",
       "name": "Alemin Kıralı",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:42.000Z"
+      "expiresAt": "2026-10-07T16:57:08.000Z"
     },
     {
       "id": "savasci",
       "name": "Savaşçı",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:45.000Z"
+      "expiresAt": "2026-10-07T16:57:14.000Z"
     },
     {
       "id": "cicek-taksi",
       "name": "Çiçek Taksi",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:48.000Z"
+      "expiresAt": "2026-10-07T16:57:18.000Z"
     },
     {
       "id": "cgh-2",
       "name": "ÇGH 2",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:51.000Z"
+      "expiresAt": "2026-10-07T16:57:22.000Z"
     },
     {
       "id": "tasacak-bu-deniz",
       "name": "Taşacak Bu Deniz",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:54.000Z"
+      "expiresAt": "2026-10-07T16:57:26.000Z"
     },
     {
       "id": "turk-mali",
       "name": "Türk Malı",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:56.000Z"
+      "expiresAt": "2026-10-07T16:57:30.000Z"
     },
     {
       "id": "sakarya-firat",
       "name": "Sakarya Fırat",
       "ok": true,
-      "expiresAt": "2026-10-07T13:12:59.000Z"
+      "expiresAt": "2026-10-07T16:57:35.000Z"
     },
     {
       "id": "bir-zamanlar-cukurova",
       "name": "Bir Zamanlar Çukurova",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:02.000Z"
+      "expiresAt": "2026-10-07T16:57:38.000Z"
     },
     {
       "id": "selena",
       "name": "Selena",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:05.000Z"
+      "expiresAt": "2026-10-07T16:57:43.000Z"
     },
     {
       "id": "bir-gece-masali",
       "name": "Bir Gece Masalı",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:07.000Z"
+      "expiresAt": "2026-10-07T16:57:47.000Z"
     },
     {
       "id": "yesil-deniz",
       "name": "Yeşil Deniz",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:10.000Z"
+      "expiresAt": "2026-10-07T16:57:51.000Z"
     },
     {
       "id": "adanali",
       "name": "Adanalı",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:12.000Z"
+      "expiresAt": "2026-10-07T16:57:55.000Z"
     },
     {
       "id": "yalan-dunya",
       "name": "Yalan Dünya",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:15.000Z"
+      "expiresAt": "2026-10-07T16:58:00.000Z"
     },
     {
       "id": "yargi",
       "name": "Yargı",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:17.000Z"
+      "expiresAt": "2026-10-07T16:58:03.000Z"
     },
     {
       "id": "kardeslerim",
       "name": "Kardeşlerim",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:20.000Z"
+      "expiresAt": "2026-10-07T16:58:08.000Z"
     },
     {
       "id": "inadina-ask",
       "name": "İnadına Aşk",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:23.000Z"
+      "expiresAt": "2026-10-07T16:58:12.000Z"
     },
     {
       "id": "cocuklar-duymasin",
       "name": "Çocuklar Duymasın",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:25.000Z"
+      "expiresAt": "2026-10-07T16:58:17.000Z"
     },
     {
       "id": "yuksek-sosyete",
       "name": "Yüksek Sosyete",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:28.000Z"
+      "expiresAt": "2026-10-07T16:58:21.000Z"
     },
     {
       "id": "kacak-gelinler",
       "name": "Kaçak Gelinler",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:30.000Z"
+      "expiresAt": "2026-10-07T16:58:25.000Z"
     },
     {
       "id": "hudutsuz-sevda",
       "name": "Hudutsuz Sevda",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:34.000Z"
+      "expiresAt": "2026-10-07T16:58:29.000Z"
     },
     {
       "id": "sevkat-yerimdar",
       "name": "Şevkat Yerimdar",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:36.000Z"
+      "expiresAt": "2026-10-07T16:58:33.000Z"
     },
     {
       "id": "mehmed-fetihler-sultani",
       "name": "Mehmed: Fetihler Sultanı",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:39.000Z"
+      "expiresAt": "2026-10-07T16:58:37.000Z"
     },
     {
       "id": "sokagin-cocuklari",
       "name": "Sokağın Çocukları",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:42.000Z"
+      "expiresAt": "2026-10-07T16:58:42.000Z"
     },
     {
       "id": "aile",
       "name": "Aile",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:45.000Z"
+      "expiresAt": "2026-10-07T16:58:46.000Z"
     },
     {
       "id": "krt",
       "name": "KRT TV",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:48.000Z"
+      "expiresAt": "2026-10-07T16:58:50.000Z"
     },
     {
       "id": "cennet-mahallesi",
       "name": "Cennet Mahallesi",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:50.000Z"
+      "expiresAt": "2026-10-07T16:58:55.000Z"
     },
     {
       "id": "kiralik-ask",
       "name": "Kiralık Aşk",
-      "ok": true,
-      "expiresAt": "2026-10-07T13:13:53.000Z"
+      "ok": false,
+      "reason": "YouTube çözümleme: Çözücü başarısız oldu; bilinen bir hata sınıfıyla eşleşmedi."
     },
     {
       "id": "guldur-guldur",
       "name": "Güldür Güldür",
       "ok": true,
-      "expiresAt": "2026-10-07T13:13:55.000Z"
+      "expiresAt": "2026-10-07T16:59:00.000Z"
     }
   ]
 }
