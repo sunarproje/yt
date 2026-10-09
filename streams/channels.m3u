@@ -23,14 +23,8 @@ muhtesem-yuzyil.m3u8
 yaprak-dokumu.m3u8
 #EXTINF:-1,Kardeş Payı
 kardes-payi.m3u8
-#EXTINF:-1,Kurtlar Vadisi Pusu
-kurtlar-vadisi-pusu.m3u8
 #EXTINF:-1,Eşkıya Dünyaya Hükümdar Olmaz
 eskiya-dunyaya-hukumdar-olmaz.m3u8
-#EXTINF:-1,Emret Komutanım
-emret-komutanim.m3u8
-#EXTINF:-1,Yeşilçam
-yesilcam.m3u8
 #EXTINF:-1,Aşk-ı Memnu
 aski-memnu.m3u8
 #EXTINF:-1,Medcezir
@@ -67,8 +61,6 @@ alemin-kirali.m3u8
 savasci.m3u8
 #EXTINF:-1,Çiçek Taksi
 cicek-taksi.m3u8
-#EXTINF:-1,ÇGH 2
-cgh-2.m3u8
 #EXTINF:-1,Taşacak Bu Deniz
 tasacak-bu-deniz.m3u8
 #EXTINF:-1,Türk Malı
@@ -113,5 +105,3 @@ aile.m3u8
 krt.m3u8
 #EXTINF:-1,Cennet Mahallesi
 cennet-mahallesi.m3u8
-#EXTINF:-1,Güldür Güldür
-guldur-guldur.m3u8
