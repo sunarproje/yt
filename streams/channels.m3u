@@ -3,6 +3,8 @@
 szc.m3u8
 #EXTINF:-1,Ezel
 ezel.m3u8
+#EXTINF:-1,Kanal 5
+kanal5.m3u8
 #EXTINF:-1,CNN Türk
 cnn-turk.m3u8
 #EXTINF:-1,beIN Sports Haber
@@ -21,8 +23,12 @@ muhtesem-yuzyil.m3u8
 yaprak-dokumu.m3u8
 #EXTINF:-1,Kardeş Payı
 kardes-payi.m3u8
+#EXTINF:-1,Kurtlar Vadisi Pusu
+kurtlar-vadisi-pusu.m3u8
 #EXTINF:-1,Eşkıya Dünyaya Hükümdar Olmaz
 eskiya-dunyaya-hukumdar-olmaz.m3u8
+#EXTINF:-1,Emret Komutanım
+emret-komutanim.m3u8
 #EXTINF:-1,Aşk-ı Memnu
 aski-memnu.m3u8
 #EXTINF:-1,Medcezir
@@ -59,6 +65,8 @@ alemin-kirali.m3u8
 savasci.m3u8
 #EXTINF:-1,Çiçek Taksi
 cicek-taksi.m3u8
+#EXTINF:-1,ÇGH 2
+cgh-2.m3u8
 #EXTINF:-1,Taşacak Bu Deniz
 tasacak-bu-deniz.m3u8
 #EXTINF:-1,Türk Malı
@@ -99,5 +107,7 @@ mehmed-fetihler-sultani.m3u8
 sokagin-cocuklari.m3u8
 #EXTINF:-1,Aile
 aile.m3u8
+#EXTINF:-1,KRT TV
+krt.m3u8
 #EXTINF:-1,Cennet Mahallesi
 cennet-mahallesi.m3u8
