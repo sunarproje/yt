@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Akit TV
+akit.m3u8
 #EXTINF:-1,SZC TV
 szc.m3u8
 #EXTINF:-1,Ezel
@@ -29,6 +31,8 @@ kurtlar-vadisi-pusu.m3u8
 eskiya-dunyaya-hukumdar-olmaz.m3u8
 #EXTINF:-1,Emret Komutanım
 emret-komutanim.m3u8
+#EXTINF:-1,Yeşilçam
+yesilcam.m3u8
 #EXTINF:-1,Aşk-ı Memnu
 aski-memnu.m3u8
 #EXTINF:-1,Medcezir
@@ -37,8 +41,6 @@ medcezir.m3u8
 bizimkiler.m3u8
 #EXTINF:-1,Leyla ile Mecnun
 leyla-ile-mecnun.m3u8
-#EXTINF:-1,Yasak Elma
-yasak-elma.m3u8
 #EXTINF:-1,Yeraltı
 yeralti.m3u8
 #EXTINF:-1,Sihirli Annem
