@@ -73,6 +73,8 @@ turk-mali.m3u8
 sakarya-firat.m3u8
 #EXTINF:-1,Bir Zamanlar Çukurova
 bir-zamanlar-cukurova.m3u8
+#EXTINF:-1,Selena
+selena.m3u8
 #EXTINF:-1,Bir Gece Masalı
 bir-gece-masali.m3u8
 #EXTINF:-1,Yeşil Deniz
@@ -109,5 +111,3 @@ krt.m3u8
 cennet-mahallesi.m3u8
 #EXTINF:-1,Nature Time Türkçe
 naturetime.m3u8
-#EXTINF:-1,Nature Time Türkçe 2
-naturetime2.m3u8
