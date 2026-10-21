@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Akit TV
+akit.m3u8
 #EXTINF:-1,SZC TV
 szc.m3u8
 #EXTINF:-1,Ezel
@@ -13,8 +15,6 @@ beinsports-haber.m3u8
 kozatv.m3u8
 #EXTINF:-1,TGRT Belgesel
 tgrt-belg.m3u8
-#EXTINF:-1,Yaban Hayatı
-yaban-hayat.m3u8
 #EXTINF:-1,Muhteşem Yüzyıl
 muhtesem-yuzyil.m3u8
 #EXTINF:-1,Yaprak Dökümü
