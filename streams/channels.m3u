@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Akit TV
-akit.m3u8
 #EXTINF:-1,SZC TV
 szc.m3u8
 #EXTINF:-1,Ezel
@@ -27,8 +25,6 @@ kurtlar-vadisi-pusu.m3u8
 eskiya-dunyaya-hukumdar-olmaz.m3u8
 #EXTINF:-1,Emret Komutanım
 emret-komutanim.m3u8
-#EXTINF:-1,Aşk-ı Memnu
-aski-memnu.m3u8
 #EXTINF:-1,Medcezir
 medcezir.m3u8
 #EXTINF:-1,Bizimkiler
