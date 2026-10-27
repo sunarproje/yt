@@ -1,16 +1,40 @@
 #EXTM3U
+#EXTINF:-1,SZC TV
+szc.m3u8
 #EXTINF:-1,Ezel
 ezel.m3u8
 #EXTINF:-1,CNN Türk
 cnn-turk.m3u8
+#EXTINF:-1,beIN Sports Haber
+beinsports-haber.m3u8
+#EXTINF:-1,Koza Tv
+kozatv.m3u8
+#EXTINF:-1,TGRT Belgesel
+tgrt-belg.m3u8
+#EXTINF:-1,Yaban Hayatı
+yaban-hayat.m3u8
+#EXTINF:-1,Muhteşem Yüzyıl
+muhtesem-yuzyil.m3u8
+#EXTINF:-1,Yaprak Dökümü
+yaprak-dokumu.m3u8
 #EXTINF:-1,Kardeş Payı
 kardes-payi.m3u8
 #EXTINF:-1,Eşkıya Dünyaya Hükümdar Olmaz
 eskiya-dunyaya-hukumdar-olmaz.m3u8
 #EXTINF:-1,Aşk-ı Memnu
 aski-memnu.m3u8
+#EXTINF:-1,Medcezir
+medcezir.m3u8
+#EXTINF:-1,Bizimkiler
+bizimkiler.m3u8
 #EXTINF:-1,Leyla ile Mecnun
 leyla-ile-mecnun.m3u8
+#EXTINF:-1,Sihirli Annem
+sihirli-annem.m3u8
+#EXTINF:-1,Seksenler
+seksenler.m3u8
+#EXTINF:-1,Söz
+soz.m3u8
 #EXTINF:-1,Yedi Numara
 yedi-numara.m3u8
 #EXTINF:-1,Altı Üstü İstanbul
@@ -39,8 +63,6 @@ sakarya-firat.m3u8
 bir-zamanlar-cukurova.m3u8
 #EXTINF:-1,Selena
 selena.m3u8
-#EXTINF:-1,Yeşil Deniz
-yesil-deniz.m3u8
 #EXTINF:-1,Adanalı
 adanali.m3u8
 #EXTINF:-1,Yalan Dünya
