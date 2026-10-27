@@ -1,40 +1,18 @@
 #EXTM3U
-#EXTINF:-1,SZC TV
-szc.m3u8
 #EXTINF:-1,Ezel
 ezel.m3u8
 #EXTINF:-1,CNN Türk
 cnn-turk.m3u8
-#EXTINF:-1,beIN Sports Haber
-beinsports-haber.m3u8
-#EXTINF:-1,Koza Tv
-kozatv.m3u8
-#EXTINF:-1,TGRT Belgesel
-tgrt-belg.m3u8
-#EXTINF:-1,Yaban Hayatı
-yaban-hayat.m3u8
-#EXTINF:-1,Muhteşem Yüzyıl
-muhtesem-yuzyil.m3u8
-#EXTINF:-1,Yaprak Dökümü
-yaprak-dokumu.m3u8
 #EXTINF:-1,Kardeş Payı
 kardes-payi.m3u8
-#EXTINF:-1,Emret Komutanım
-emret-komutanim.m3u8
+#EXTINF:-1,Eşkıya Dünyaya Hükümdar Olmaz
+eskiya-dunyaya-hukumdar-olmaz.m3u8
 #EXTINF:-1,Aşk-ı Memnu
 aski-memnu.m3u8
-#EXTINF:-1,Medcezir
-medcezir.m3u8
-#EXTINF:-1,Bizimkiler
-bizimkiler.m3u8
 #EXTINF:-1,Leyla ile Mecnun
 leyla-ile-mecnun.m3u8
-#EXTINF:-1,Sihirli Annem
-sihirli-annem.m3u8
-#EXTINF:-1,Seksenler
-seksenler.m3u8
-#EXTINF:-1,Söz
-soz.m3u8
+#EXTINF:-1,Yedi Numara
+yedi-numara.m3u8
 #EXTINF:-1,Altı Üstü İstanbul
 alti-ustu-istanbul.m3u8
 #EXTINF:-1,Avrupa Yakası
@@ -79,6 +57,8 @@ cocuklar-duymasin.m3u8
 yuksek-sosyete.m3u8
 #EXTINF:-1,Kaçak Gelinler
 kacak-gelinler.m3u8
+#EXTINF:-1,Şevkat Yerimdar
+sevkat-yerimdar.m3u8
 #EXTINF:-1,Mehmed: Fetihler Sultanı
 mehmed-fetihler-sultani.m3u8
 #EXTINF:-1,Aile
@@ -89,3 +69,5 @@ krt.m3u8
 cennet-mahallesi.m3u8
 #EXTINF:-1,Nature Time Türkçe
 naturetime.m3u8
+#EXTINF:-1,Nature Time Türkçe 2
+naturetime2.m3u8
