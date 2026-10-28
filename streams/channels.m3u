@@ -1,6 +1,16 @@
 #EXTM3U
+#EXTINF:-1,Akit TV
+akit.m3u8
+#EXTINF:-1,SZC TV
+szc.m3u8
+#EXTINF:-1,Ezel
+ezel.m3u8
+#EXTINF:-1,CNN Türk
+cnn-turk.m3u8
 #EXTINF:-1,beIN Sports Haber
 beinsports-haber.m3u8
+#EXTINF:-1,Koza Tv
+kozatv.m3u8
 #EXTINF:-1,TGRT Belgesel
 tgrt-belg.m3u8
 #EXTINF:-1,Hayvanlar Alemi
