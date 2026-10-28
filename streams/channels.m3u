@@ -5,8 +5,6 @@ akit.m3u8
 szc.m3u8
 #EXTINF:-1,Ezel
 ezel.m3u8
-#EXTINF:-1,Kanal 5
-kanal5.m3u8
 #EXTINF:-1,CNN Türk
 cnn-turk.m3u8
 #EXTINF:-1,beIN Sports Haber
@@ -43,8 +41,6 @@ sihirli-annem.m3u8
 seksenler.m3u8
 #EXTINF:-1,Söz
 soz.m3u8
-#EXTINF:-1,Yedi Numara
-yedi-numara.m3u8
 #EXTINF:-1,Altı Üstü İstanbul
 alti-ustu-istanbul.m3u8
 #EXTINF:-1,Avrupa Yakası
@@ -81,6 +77,8 @@ yalan-dunya.m3u8
 yargi.m3u8
 #EXTINF:-1,Kardeşlerim
 kardeslerim.m3u8
+#EXTINF:-1,İnadına Aşk
+inadina-ask.m3u8
 #EXTINF:-1,Çocuklar Duymasın
 cocuklar-duymasin.m3u8
 #EXTINF:-1,Yüksek Sosyete
