@@ -85,12 +85,16 @@ inadina-ask.m3u8
 cocuklar-duymasin.m3u8
 #EXTINF:-1,Yüksek Sosyete
 yuksek-sosyete.m3u8
+#EXTINF:-1,Kaçak Gelinler
+kacak-gelinler.m3u8
 #EXTINF:-1,Şevkat Yerimdar
 sevkat-yerimdar.m3u8
 #EXTINF:-1,Mehmed: Fetihler Sultanı
 mehmed-fetihler-sultani.m3u8
 #EXTINF:-1,Aile
 aile.m3u8
+#EXTINF:-1,KRT TV
+krt.m3u8
 #EXTINF:-1,Cennet Mahallesi
 cennet-mahallesi.m3u8
 #EXTINF:-1,Nature Time Türkçe
