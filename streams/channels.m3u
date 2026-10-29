@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Akit TV
-akit.m3u8
 #EXTINF:-1,SZC TV
 szc.m3u8
 #EXTINF:-1,Ezel
@@ -49,8 +47,6 @@ alti-ustu-istanbul.m3u8
 avrupa-yakasi.m3u8
 #EXTINF:-1,Aşk Yeniden
 ask-yeniden.m3u8
-#EXTINF:-1,Behzat Ç
-behzat-c.m3u8
 #EXTINF:-1,Fatmagül'ün Suçu Ne?
 fatmagulun-sucu-ne.m3u8
 #EXTINF:-1,Alemin Kıralı
