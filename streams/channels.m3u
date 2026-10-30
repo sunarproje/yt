@@ -35,6 +35,8 @@ medcezir.m3u8
 bizimkiler.m3u8
 #EXTINF:-1,Leyla ile Mecnun
 leyla-ile-mecnun.m3u8
+#EXTINF:-1,Seksenler
+seksenler.m3u8
 #EXTINF:-1,Söz
 soz.m3u8
 #EXTINF:-1,Yedi Numara
@@ -55,16 +57,10 @@ alemin-kirali.m3u8
 savasci.m3u8
 #EXTINF:-1,Çiçek Taksi
 cicek-taksi.m3u8
-#EXTINF:-1,Taşacak Bu Deniz
-tasacak-bu-deniz.m3u8
-#EXTINF:-1,Türk Malı
-turk-mali.m3u8
 #EXTINF:-1,Sakarya Fırat
 sakarya-firat.m3u8
 #EXTINF:-1,Bir Zamanlar Çukurova
 bir-zamanlar-cukurova.m3u8
-#EXTINF:-1,Selena
-selena.m3u8
 #EXTINF:-1,Yeşil Deniz
 yesil-deniz.m3u8
 #EXTINF:-1,Adanalı
@@ -77,12 +73,10 @@ yargi.m3u8
 kardeslerim.m3u8
 #EXTINF:-1,İnadına Aşk
 inadina-ask.m3u8
-#EXTINF:-1,Yüksek Sosyete
-yuksek-sosyete.m3u8
+#EXTINF:-1,Çocuklar Duymasın
+cocuklar-duymasin.m3u8
 #EXTINF:-1,Kaçak Gelinler
 kacak-gelinler.m3u8
-#EXTINF:-1,Şevkat Yerimdar
-sevkat-yerimdar.m3u8
 #EXTINF:-1,Mehmed: Fetihler Sultanı
 mehmed-fetihler-sultani.m3u8
 #EXTINF:-1,Aile
@@ -93,3 +87,5 @@ krt.m3u8
 cennet-mahallesi.m3u8
 #EXTINF:-1,Nature Time Türkçe
 naturetime.m3u8
+#EXTINF:-1,Nature Time Türkçe 2
+naturetime2.m3u8
