@@ -33,6 +33,8 @@ aski-memnu.m3u8
 medcezir.m3u8
 #EXTINF:-1,Bizimkiler
 bizimkiler.m3u8
+#EXTINF:-1,Leyla ile Mecnun
+leyla-ile-mecnun.m3u8
 #EXTINF:-1,Seksenler
 seksenler.m3u8
 #EXTINF:-1,Söz
@@ -47,6 +49,8 @@ avrupa-yakasi.m3u8
 ask-yeniden.m3u8
 #EXTINF:-1,Behzat Ç
 behzat-c.m3u8
+#EXTINF:-1,Fatmagül'ün Suçu Ne?
+fatmagulun-sucu-ne.m3u8
 #EXTINF:-1,Alemin Kıralı
 alemin-kirali.m3u8
 #EXTINF:-1,Savaşçı
