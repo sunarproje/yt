@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Akit TV
+akit.m3u8
 #EXTINF:-1,SZC TV
 szc.m3u8
 #EXTINF:-1,Ezel
@@ -21,6 +23,8 @@ muhtesem-yuzyil.m3u8
 yaprak-dokumu.m3u8
 #EXTINF:-1,Kardeş Payı
 kardes-payi.m3u8
+#EXTINF:-1,Çukur
+cukur.m3u8
 #EXTINF:-1,Eşkıya Dünyaya Hükümdar Olmaz
 eskiya-dunyaya-hukumdar-olmaz.m3u8
 #EXTINF:-1,Aşk-ı Memnu
