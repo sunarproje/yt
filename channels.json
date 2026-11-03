@@ -2,7 +2,7 @@
   {
     "id": "akit",
     "name": "Akit TV",
-    "url": "https://www.youtube.com/live/YHy8HXq3L_k?si=uZRNXtsFOz1FJczR"
+    "url": "https://www.youtube.com/watch?v=DWfdFNpRsEQ"
   },
   {
     "id": "szc",
@@ -68,6 +68,11 @@
     "id": "kurtlar-vadisi-pusu",
     "name": "Kurtlar Vadisi Pusu",
     "url": "https://www.youtube.com/watch?v=_fiTP5xJLjY"
+  },
+  {
+    "id": "cukur",
+    "name": "Çukur",
+    "url": "https://www.youtube.com/watch?v=nZntWwlV3BA"
   },
   {
     "id": "eskiya-dunyaya-hukumdar-olmaz",
