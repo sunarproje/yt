@@ -49,6 +49,8 @@ ask-yeniden.m3u8
 behzat-c.m3u8
 #EXTINF:-1,Alemin Kıralı
 alemin-kirali.m3u8
+#EXTINF:-1,Savaşçı
+savasci.m3u8
 #EXTINF:-1,Çiçek Taksi
 cicek-taksi.m3u8
 #EXTINF:-1,Taşacak Bu Deniz
@@ -75,8 +77,6 @@ inadina-ask.m3u8
 cocuklar-duymasin.m3u8
 #EXTINF:-1,Yüksek Sosyete
 yuksek-sosyete.m3u8
-#EXTINF:-1,Kaçak Gelinler
-kacak-gelinler.m3u8
 #EXTINF:-1,Şevkat Yerimdar
 sevkat-yerimdar.m3u8
 #EXTINF:-1,Mehmed: Fetihler Sultanı
