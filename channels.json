@@ -60,6 +60,11 @@
     "url": "https://www.youtube.com/watch?v=crwxJBQKWj4"
   },
   {
+    "id": "kuzey-guney",
+    "name": "Kuzey Güney",
+    "url": "https://www.youtube.com/watch?v="
+  },
+  {
     "id": "kardes-payi",
     "name": "Kardeş Payı",
     "url": "https://www.youtube.com/watch?v=eYeu4VUkhYc"
@@ -310,9 +315,49 @@
     "url": "https://www.youtube.com/watch?v=SMfXMDIQL8o"
   },
   {
+    "id": "tolgshow",
+    "name": "Tolgshow",
+    "url": "https://www.youtube.com/watch?v=Q13YeYt__XE"
+  },
+  {
+    "id": "kizilcil-serbeti",
+    "name": "Kızılcık Şerbeti",
+    "url": "https://www.youtube.com/watch?v=mSoVPdtBDrI"
+  },
+  {
+    "id": "sifirbir",
+    "name": "Sıfır Bir",
+    "url": "https://www.youtube.com/watch?v=kpG7f3jF8bU"
+  },
+  {
     "id": "kanald-arsiv",
     "name": "Kanal D Arşiv",
     "url": "https://www.youtube.com/watch?v=D0biEf4VlxU"
+  },
+  {
+    "id": "sabantv",
+    "name": "Şaban Tv",
+    "url": "https://www.youtube.com/watch?v=uA2Lffjey3g"
+  },
+  {
+    "id": "sabantv2",
+    "name": "Şaban Tv 2",
+    "url": "https://www.youtube.com/watch?v=AEwNCbcVDEY"
+  },
+  {
+    "id": "arzufilm",
+    "name": "Arzu Film",
+    "url": "https://www.youtube.com/watch?v=GQ6t0cq2n2c"
+  },
+  {
+    "id": "gulsahfilm",
+    "name": "Gülşah Film",
+    "url": "https://www.youtube.com/watch?v=CrB2M8gKWo0"
+  },
+  {
+    "id": "zenginkiz",
+    "name": "Zengin Kız Fakir Oğlan",
+    "url": "https://www.youtube.com/watch?v=3kTcvGWaO3Q"
   },
   {
     "id": "naturetime",
