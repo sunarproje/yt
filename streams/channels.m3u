@@ -15,8 +15,6 @@ beinsports-haber.m3u8
 kozatv.m3u8
 #EXTINF:-1,TGRT Belgesel
 tgrt-belg.m3u8
-#EXTINF:-1,Hayvanlar Alemi
-hayvan.m3u8
 #EXTINF:-1,Yaban Hayatı
 yaban-hayat.m3u8
 #EXTINF:-1,Muhteşem Yüzyıl
@@ -61,8 +59,6 @@ avrupa-yakasi.m3u8
 ask-yeniden.m3u8
 #EXTINF:-1,Behzat Ç
 behzat-c.m3u8
-#EXTINF:-1,Fatmagül'ün Suçu Ne?
-fatmagulun-sucu-ne.m3u8
 #EXTINF:-1,Alemin Kıralı
 alemin-kirali.m3u8
 #EXTINF:-1,Savaşçı
