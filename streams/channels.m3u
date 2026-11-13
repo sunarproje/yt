@@ -9,8 +9,6 @@ ezel.m3u8
 kanal5.m3u8
 #EXTINF:-1,CNN Türk
 cnn-turk.m3u8
-#EXTINF:-1,beIN Sports Haber
-beinsports-haber.m3u8
 #EXTINF:-1,Koza Tv
 kozatv.m3u8
 #EXTINF:-1,TGRT Belgesel
@@ -31,10 +29,6 @@ cukur.m3u8
 eskiya-dunyaya-hukumdar-olmaz.m3u8
 #EXTINF:-1,Emret Komutanım
 emret-komutanim.m3u8
-#EXTINF:-1,Aşk-ı Memnu
-aski-memnu.m3u8
-#EXTINF:-1,Medcezir
-medcezir.m3u8
 #EXTINF:-1,Bizimkiler
 bizimkiler.m3u8
 #EXTINF:-1,Leyla ile Mecnun
@@ -59,22 +53,16 @@ ask-yeniden.m3u8
 behzat-c.m3u8
 #EXTINF:-1,Fatmagül'ün Suçu Ne?
 fatmagulun-sucu-ne.m3u8
-#EXTINF:-1,Alemin Kıralı
-alemin-kirali.m3u8
 #EXTINF:-1,Savaşçı
 savasci.m3u8
 #EXTINF:-1,Çiçek Taksi
 cicek-taksi.m3u8
-#EXTINF:-1,Taşacak Bu Deniz
-tasacak-bu-deniz.m3u8
 #EXTINF:-1,Türk Malı
 turk-mali.m3u8
 #EXTINF:-1,Sakarya Fırat
 sakarya-firat.m3u8
 #EXTINF:-1,Bir Zamanlar Çukurova
 bir-zamanlar-cukurova.m3u8
-#EXTINF:-1,Selena
-selena.m3u8
 #EXTINF:-1,Yeşil Deniz
 yesil-deniz.m3u8
 #EXTINF:-1,Adanalı
@@ -89,8 +77,6 @@ kardeslerim.m3u8
 inadina-ask.m3u8
 #EXTINF:-1,Çocuklar Duymasın
 cocuklar-duymasin.m3u8
-#EXTINF:-1,Yüksek Sosyete
-yuksek-sosyete.m3u8
 #EXTINF:-1,Hudutsuz Sevda
 hudutsuz-sevda.m3u8
 #EXTINF:-1,Şevkat Yerimdar
@@ -105,8 +91,6 @@ aile.m3u8
 krt.m3u8
 #EXTINF:-1,Cennet Mahallesi
 cennet-mahallesi.m3u8
-#EXTINF:-1,Güldür Güldür
-guldur-guldur.m3u8
 #EXTINF:-1,Doktorlar
 doktorlar.m3u8
 #EXTINF:-1,Tolgshow
