@@ -81,8 +81,6 @@ yargi.m3u8
 kardeslerim.m3u8
 #EXTINF:-1,İnadına Aşk
 inadina-ask.m3u8
-#EXTINF:-1,Çocuklar Duymasın
-cocuklar-duymasin.m3u8
 #EXTINF:-1,Yüksek Sosyete
 yuksek-sosyete.m3u8
 #EXTINF:-1,Hudutsuz Sevda
@@ -123,3 +121,5 @@ zenginkiz.m3u8
 naturetime.m3u8
 #EXTINF:-1,Nature Time Türkçe 2
 naturetime2.m3u8
+#EXTINF:-1,1 Kadın 1 Erkek
+1kadin1erkek.m3u8
