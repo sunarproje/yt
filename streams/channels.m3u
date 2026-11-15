@@ -13,6 +13,8 @@ beinsports-haber.m3u8
 kozatv.m3u8
 #EXTINF:-1,TGRT Belgesel
 tgrt-belg.m3u8
+#EXTINF:-1,Hayvanlar Alemi
+hayvan.m3u8
 #EXTINF:-1,Yaban Hayatı
 yaban-hayat.m3u8
 #EXTINF:-1,Muhteşem Yüzyıl
@@ -99,6 +101,8 @@ aile.m3u8
 krt.m3u8
 #EXTINF:-1,Cennet Mahallesi
 cennet-mahallesi.m3u8
+#EXTINF:-1,Kiralık Aşk
+kiralik-ask.m3u8
 #EXTINF:-1,Güldür Güldür
 guldur-guldur.m3u8
 #EXTINF:-1,Tolgshow
@@ -125,3 +129,7 @@ naturetime.m3u8
 naturetime2.m3u8
 #EXTINF:-1,1 Kadın 1 Erkek
 1kadin1erkek.m3u8
+#EXTINF:-1,Hz. Yusuf
+hz-yusuf.m3u8
+#EXTINF:-1,Gönül Dağı
+gonuldagi.m3u8
