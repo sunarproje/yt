@@ -42,7 +42,7 @@
   {
     "id": "hayvan",
     "name": "Hayvanlar Alemi",
-    "url": "https://www.youtube.com/watch?v=3vCokvE1pII"
+    "url": "https://www.youtube.com/watch?v=xXZqU5vnEug"
   },
   {
     "id": "yaban-hayat",
@@ -302,7 +302,7 @@
   {
     "id": "kiralik-ask",
     "name": "Kiralık Aşk",
-    "url": "https://www.youtube.com/watch?v=gRLKlB-iSXY"
+    "url": "https://www.youtube.com/watch?v=Hyqz3ny0mVQ"
   },
   {
     "id": "guldur-guldur",
@@ -373,5 +373,15 @@
     "id": "1kadin1erkek",
     "name": "1 Kadın 1 Erkek",
     "url": "https://www.youtube.com/watch?v=FZv_MnGxxbA"
+  },
+  {
+    "id": "hz-yusuf",
+    "name": "Hz. Yusuf",
+    "url": "https://www.youtube.com/watch?v=3eh6tqTbzhk"
+  },
+  {
+    "id": "gonuldagi",
+    "name": "Gönül Dağı",
+    "url": "https://www.youtube.com/watch?v=ejlY4MbIaL4"
   }
 ]
