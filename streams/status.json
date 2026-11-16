@@ -1,23 +1,23 @@
 {
-  "checkedAt": "2026-11-16T05:40:09.790Z",
+  "checkedAt": "2026-11-16T12:54:18.019Z",
   "results": [
     {
       "id": "akit",
       "name": "Akit TV",
       "ok": true,
-      "expiresAt": "2026-11-16T11:33:17.000Z"
+      "expiresAt": "2026-11-16T18:48:11.000Z"
     },
     {
       "id": "szc",
       "name": "SZC TV",
       "ok": true,
-      "expiresAt": "2026-11-16T11:33:20.000Z"
+      "expiresAt": "2026-11-16T18:48:16.000Z"
     },
     {
       "id": "ezel",
       "name": "Ezel",
       "ok": true,
-      "expiresAt": "2026-11-16T11:33:22.000Z"
+      "expiresAt": "2026-11-16T18:48:19.000Z"
     },
     {
       "id": "kanal5",
@@ -29,61 +29,61 @@
       "id": "cnn-turk",
       "name": "CNN Türk",
       "ok": true,
-      "expiresAt": "2026-11-16T11:33:26.000Z"
+      "expiresAt": "2026-11-16T18:48:24.000Z"
     },
     {
       "id": "beinsports-haber",
       "name": "beIN Sports Haber",
       "ok": true,
-      "expiresAt": "2026-11-16T11:33:29.000Z"
+      "expiresAt": "2026-11-16T18:48:28.000Z"
     },
     {
       "id": "kozatv",
       "name": "Koza Tv",
       "ok": true,
-      "expiresAt": "2026-11-16T11:33:32.000Z"
+      "expiresAt": "2026-11-16T18:48:33.000Z"
     },
     {
       "id": "tgrt-belg",
       "name": "TGRT Belgesel",
       "ok": true,
-      "expiresAt": "2026-11-16T11:33:34.000Z"
+      "expiresAt": "2026-11-16T18:48:36.000Z"
     },
     {
       "id": "hayvan",
       "name": "Hayvanlar Alemi",
       "ok": true,
-      "expiresAt": "2026-11-16T11:33:38.000Z"
+      "expiresAt": "2026-11-16T18:48:41.000Z"
     },
     {
       "id": "yaban-hayat",
       "name": "Yaban Hayatı",
       "ok": true,
-      "expiresAt": "2026-11-16T11:33:41.000Z"
+      "expiresAt": "2026-11-16T18:48:46.000Z"
     },
     {
       "id": "muhtesem-yuzyil",
       "name": "Muhteşem Yüzyıl",
       "ok": true,
-      "expiresAt": "2026-11-16T11:33:44.000Z"
+      "expiresAt": "2026-11-16T18:48:50.000Z"
     },
     {
       "id": "yaprak-dokumu",
       "name": "Yaprak Dökümü",
       "ok": true,
-      "expiresAt": "2026-11-16T11:33:47.000Z"
+      "expiresAt": "2026-11-16T18:48:54.000Z"
     },
     {
       "id": "kuzey-guney",
       "name": "Kuzey Güney",
       "ok": false,
-      "reason": "YouTube çözümleme: Yayın erişilemiyor veya henüz canlı değil."
+      "reason": "YouTube çözümleme: Yayın için hesap erişimi gerekiyor."
     },
     {
       "id": "kardes-payi",
       "name": "Kardeş Payı",
       "ok": true,
-      "expiresAt": "2026-11-16T11:33:50.000Z"
+      "expiresAt": "2026-11-16T18:48:59.000Z"
     },
     {
       "id": "kurtlar-vadisi-pusu",
@@ -95,19 +95,19 @@
       "id": "cukur",
       "name": "Çukur",
       "ok": true,
-      "expiresAt": "2026-11-16T11:33:54.000Z"
+      "expiresAt": "2026-11-16T18:49:05.000Z"
     },
     {
       "id": "eskiya-dunyaya-hukumdar-olmaz",
       "name": "Eşkıya Dünyaya Hükümdar Olmaz",
       "ok": true,
-      "expiresAt": "2026-11-16T11:33:57.000Z"
+      "expiresAt": "2026-11-16T18:49:09.000Z"
     },
     {
       "id": "emret-komutanim",
       "name": "Emret Komutanım",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:00.000Z"
+      "expiresAt": "2026-11-16T18:49:13.000Z"
     },
     {
       "id": "yesilcam",
@@ -119,25 +119,25 @@
       "id": "aski-memnu",
       "name": "Aşk-ı Memnu",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:04.000Z"
+      "expiresAt": "2026-11-16T18:49:21.000Z"
     },
     {
       "id": "medcezir",
       "name": "Medcezir",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:06.000Z"
+      "expiresAt": "2026-11-16T18:49:25.000Z"
     },
     {
       "id": "bizimkiler",
       "name": "Bizimkiler",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:09.000Z"
+      "expiresAt": "2026-11-16T18:49:29.000Z"
     },
     {
       "id": "leyla-ile-mecnun",
       "name": "Leyla ile Mecnun",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:16.000Z"
+      "expiresAt": "2026-11-16T18:49:34.000Z"
     },
     {
       "id": "yasak-elma",
@@ -155,109 +155,109 @@
       "id": "sihirli-annem",
       "name": "Sihirli Annem",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:21.000Z"
+      "expiresAt": "2026-11-16T18:49:44.000Z"
     },
     {
       "id": "seksenler",
       "name": "Seksenler",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:24.000Z"
+      "expiresAt": "2026-11-16T18:49:49.000Z"
     },
     {
       "id": "soz",
       "name": "Söz",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:27.000Z"
+      "expiresAt": "2026-11-16T18:49:55.000Z"
     },
     {
       "id": "yedi-numara",
       "name": "Yedi Numara",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:30.000Z"
+      "expiresAt": "2026-11-16T18:50:00.000Z"
     },
     {
       "id": "alti-ustu-istanbul",
       "name": "Altı Üstü İstanbul",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:32.000Z"
+      "expiresAt": "2026-11-16T18:50:05.000Z"
     },
     {
       "id": "avrupa-yakasi",
       "name": "Avrupa Yakası",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:35.000Z"
+      "expiresAt": "2026-11-16T18:50:14.000Z"
     },
     {
       "id": "ask-yeniden",
       "name": "Aşk Yeniden",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:38.000Z"
+      "expiresAt": "2026-11-16T18:50:19.000Z"
     },
     {
       "id": "behzat-c",
       "name": "Behzat Ç",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:41.000Z"
+      "expiresAt": "2026-11-16T18:50:24.000Z"
     },
     {
       "id": "fatmagulun-sucu-ne",
       "name": "Fatmagül'ün Suçu Ne?",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:44.000Z"
+      "expiresAt": "2026-11-16T18:50:28.000Z"
     },
     {
       "id": "alemin-kirali",
       "name": "Alemin Kıralı",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:47.000Z"
+      "expiresAt": "2026-11-16T18:50:33.000Z"
     },
     {
       "id": "savasci",
       "name": "Savaşçı",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:49.000Z"
+      "expiresAt": "2026-11-16T18:50:38.000Z"
     },
     {
       "id": "cicek-taksi",
       "name": "Çiçek Taksi",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:52.000Z"
+      "expiresAt": "2026-11-16T18:50:43.000Z"
     },
     {
       "id": "cgh-2",
       "name": "ÇGH 2",
-      "ok": false,
-      "reason": "YouTube çözümleme: Yayın için hesap erişimi gerekiyor."
+      "ok": true,
+      "expiresAt": "2026-11-16T18:50:50.000Z"
     },
     {
       "id": "tasacak-bu-deniz",
       "name": "Taşacak Bu Deniz",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:56.000Z"
+      "expiresAt": "2026-11-16T18:50:55.000Z"
     },
     {
       "id": "turk-mali",
       "name": "Türk Malı",
       "ok": true,
-      "expiresAt": "2026-11-16T11:34:59.000Z"
+      "expiresAt": "2026-11-16T18:51:00.000Z"
     },
     {
       "id": "sakarya-firat",
       "name": "Sakarya Fırat",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:02.000Z"
+      "expiresAt": "2026-11-16T18:51:05.000Z"
     },
     {
       "id": "bir-zamanlar-cukurova",
       "name": "Bir Zamanlar Çukurova",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:05.000Z"
+      "expiresAt": "2026-11-16T18:51:10.000Z"
     },
     {
       "id": "selena",
       "name": "Selena",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:08.000Z"
+      "expiresAt": "2026-11-16T18:51:15.000Z"
     },
     {
       "id": "bir-gece-masali",
@@ -269,49 +269,49 @@
       "id": "yesil-deniz",
       "name": "Yeşil Deniz",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:12.000Z"
+      "expiresAt": "2026-11-16T18:51:22.000Z"
     },
     {
       "id": "adanali",
       "name": "Adanalı",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:15.000Z"
+      "expiresAt": "2026-11-16T18:51:27.000Z"
     },
     {
       "id": "yalan-dunya",
       "name": "Yalan Dünya",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:17.000Z"
+      "expiresAt": "2026-11-16T18:51:33.000Z"
     },
     {
       "id": "yargi",
       "name": "Yargı",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:20.000Z"
+      "expiresAt": "2026-11-16T18:51:37.000Z"
     },
     {
       "id": "kardeslerim",
       "name": "Kardeşlerim",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:23.000Z"
+      "expiresAt": "2026-11-16T18:51:42.000Z"
     },
     {
       "id": "inadina-ask",
       "name": "İnadına Aşk",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:26.000Z"
+      "expiresAt": "2026-11-16T18:51:48.000Z"
     },
     {
       "id": "cocuklar-duymasin",
       "name": "Çocuklar Duymasın",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:29.000Z"
+      "expiresAt": "2026-11-16T18:51:59.000Z"
     },
     {
       "id": "yuksek-sosyete",
       "name": "Yüksek Sosyete",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:31.000Z"
+      "expiresAt": "2026-11-16T18:52:07.000Z"
     },
     {
       "id": "kacak-gelinler",
@@ -323,55 +323,55 @@
       "id": "hudutsuz-sevda",
       "name": "Hudutsuz Sevda",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:36.000Z"
+      "expiresAt": "2026-11-16T18:52:14.000Z"
     },
     {
       "id": "sevkat-yerimdar",
       "name": "Şevkat Yerimdar",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:39.000Z"
+      "expiresAt": "2026-11-16T18:52:20.000Z"
     },
     {
       "id": "mehmed-fetihler-sultani",
       "name": "Mehmed: Fetihler Sultanı",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:41.000Z"
+      "expiresAt": "2026-11-16T18:52:26.000Z"
     },
     {
       "id": "sokagin-cocuklari",
       "name": "Sokağın Çocukları",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:44.000Z"
+      "expiresAt": "2026-11-16T18:52:31.000Z"
     },
     {
       "id": "aile",
       "name": "Aile",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:47.000Z"
+      "expiresAt": "2026-11-16T18:52:36.000Z"
     },
     {
       "id": "krt",
       "name": "KRT TV",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:50.000Z"
+      "expiresAt": "2026-11-16T18:52:41.000Z"
     },
     {
       "id": "cennet-mahallesi",
       "name": "Cennet Mahallesi",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:53.000Z"
+      "expiresAt": "2026-11-16T18:52:46.000Z"
     },
     {
       "id": "kiralik-ask",
       "name": "Kiralık Aşk",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:56.000Z"
+      "expiresAt": "2026-11-16T18:52:50.000Z"
     },
     {
       "id": "guldur-guldur",
       "name": "Güldür Güldür",
       "ok": true,
-      "expiresAt": "2026-11-16T11:35:59.000Z"
+      "expiresAt": "2026-11-16T18:52:56.000Z"
     },
     {
       "id": "doktorlar",
@@ -383,85 +383,85 @@
       "id": "tolgshow",
       "name": "Tolgshow",
       "ok": true,
-      "expiresAt": "2026-11-16T11:36:03.000Z"
+      "expiresAt": "2026-11-16T18:53:03.000Z"
     },
     {
       "id": "kizilcil-serbeti",
       "name": "Kızılcık Şerbeti",
       "ok": true,
-      "expiresAt": "2026-11-16T11:36:06.000Z"
+      "expiresAt": "2026-11-16T18:53:08.000Z"
     },
     {
       "id": "sifirbir",
       "name": "Sıfır Bir",
       "ok": true,
-      "expiresAt": "2026-11-16T11:36:09.000Z"
+      "expiresAt": "2026-11-16T18:53:17.000Z"
     },
     {
       "id": "kanald-arsiv",
       "name": "Kanal D Arşiv",
       "ok": true,
-      "expiresAt": "2026-11-16T11:36:16.000Z"
+      "expiresAt": "2026-11-16T18:53:21.000Z"
     },
     {
       "id": "sabantv",
       "name": "Şaban Tv",
       "ok": true,
-      "expiresAt": "2026-11-16T11:36:20.000Z"
+      "expiresAt": "2026-11-16T18:53:26.000Z"
     },
     {
       "id": "sabantv2",
       "name": "Şaban Tv 2",
       "ok": true,
-      "expiresAt": "2026-11-16T11:36:24.000Z"
+      "expiresAt": "2026-11-16T18:53:32.000Z"
     },
     {
       "id": "arzufilm",
       "name": "Arzu Film",
       "ok": true,
-      "expiresAt": "2026-11-16T11:36:29.000Z"
+      "expiresAt": "2026-11-16T18:53:37.000Z"
     },
     {
       "id": "gulsahfilm",
       "name": "Gülşah Film",
       "ok": true,
-      "expiresAt": "2026-11-16T11:36:40.000Z"
+      "expiresAt": "2026-11-16T18:53:42.000Z"
     },
     {
       "id": "zenginkiz",
       "name": "Zengin Kız Fakir Oğlan",
       "ok": true,
-      "expiresAt": "2026-11-16T11:37:11.000Z"
+      "expiresAt": "2026-11-16T18:53:47.000Z"
     },
     {
       "id": "naturetime",
       "name": "Nature Time Türkçe",
       "ok": true,
-      "expiresAt": "2026-11-16T11:37:48.000Z"
+      "expiresAt": "2026-11-16T18:53:51.000Z"
     },
     {
       "id": "naturetime2",
       "name": "Nature Time Türkçe 2",
       "ok": true,
-      "expiresAt": "2026-11-16T11:38:19.000Z"
+      "expiresAt": "2026-11-16T18:53:57.000Z"
     },
     {
       "id": "1kadin1erkek",
       "name": "1 Kadın 1 Erkek",
       "ok": true,
-      "expiresAt": "2026-11-16T11:38:49.000Z"
+      "expiresAt": "2026-11-16T18:54:03.000Z"
     },
     {
       "id": "hz-yusuf",
       "name": "Hz. Yusuf",
       "ok": true,
-      "expiresAt": "2026-11-16T11:39:17.000Z"
+      "expiresAt": "2026-11-16T18:54:08.000Z"
     },
     {
       "id": "gonuldagi",
       "name": "Gönül Dağı",
       "ok": true,
-      "expiresAt": "2026-11-16T11:39:50.000Z"
+      "expiresAt": "2026-11-16T18:54:14.000Z"
     }
   ]
 }
