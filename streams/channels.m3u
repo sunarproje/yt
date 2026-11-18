@@ -27,8 +27,6 @@ kardes-payi.m3u8
 kurtlar-vadisi-pusu.m3u8
 #EXTINF:-1,Çukur
 cukur.m3u8
-#EXTINF:-1,Eşkıya Dünyaya Hükümdar Olmaz
-eskiya-dunyaya-hukumdar-olmaz.m3u8
 #EXTINF:-1,Emret Komutanım
 emret-komutanim.m3u8
 #EXTINF:-1,Aşk-ı Memnu
@@ -95,6 +93,8 @@ sokagin-cocuklari.m3u8
 aile.m3u8
 #EXTINF:-1,KRT TV
 krt.m3u8
+#EXTINF:-1,Cennet Mahallesi
+cennet-mahallesi.m3u8
 #EXTINF:-1,Kiralık Aşk
 kiralik-ask.m3u8
 #EXTINF:-1,Güldür Güldür
@@ -103,8 +103,6 @@ guldur-guldur.m3u8
 tolgshow.m3u8
 #EXTINF:-1,Sıfır Bir
 sifirbir.m3u8
-#EXTINF:-1,Kanal D Arşiv
-kanald-arsiv.m3u8
 #EXTINF:-1,Şaban Tv
 sabantv.m3u8
 #EXTINF:-1,Şaban Tv 2
