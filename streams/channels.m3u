@@ -47,6 +47,8 @@ avrupa-yakasi.m3u8
 ask-yeniden.m3u8
 #EXTINF:-1,Behzat Ç
 behzat-c.m3u8
+#EXTINF:-1,Alemin Kıralı
+alemin-kirali.m3u8
 #EXTINF:-1,Savaşçı
 savasci.m3u8
 #EXTINF:-1,Çiçek Taksi
@@ -109,6 +111,8 @@ zenginkiz.m3u8
 naturetime.m3u8
 #EXTINF:-1,Nature Time Türkçe 2
 naturetime2.m3u8
+#EXTINF:-1,Hz. Yusuf
+hz-yusuf.m3u8
 #EXTINF:-1,Gönül Dağı
 gonuldagi.m3u8
 #EXTINF:-1,Yarıştayız
